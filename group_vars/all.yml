@@ -2,8 +2,8 @@
 # group_vars/all.yml
 
 # AWS EC2
-aws_access_key: AKIAIOYLTXZY4GENQYTA
-aws_secret_key: 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
+aws_access_key:
+aws_secret_key:
 region: us-east-1
 zone: us-east-1a
 keypair: deploy-airflow
